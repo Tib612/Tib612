@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Thibaut Capuano</h1>
 <h3 align="center">A backend developer and technical analyst from Belgium</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tib612&label=Profile%20views&color=0e75b6&style=flat" alt="tib612" /> </p>
-
 - 🔭 I’m currently working on [a Pluxee API (Sodexo)](https://github.com/Tib612/pluxee)
 
 - 🌱 I’m currently learning **Frontend development**
