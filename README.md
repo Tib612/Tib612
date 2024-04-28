@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Thibaut Capuano</h1>
-<h3 align="center">A backend developer and technical analyst from Belgium</h3>
+<h3 align="center">A technical analyst and backend developer from Belgium</h3>
 
 - 🔭 I’m currently working on [a Pluxee API (Sodexo)](https://github.com/Tib612/pluxee)
 
