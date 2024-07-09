@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate on **open source python projects**
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+- 👨‍💻 All of my projects are available on my [portfolio](https://tib612.github.io)
 
 - 💬 Ask me about **FastAPI, Pydantic, SQLAlchemy and pytest**
 
-- 📄 Know about my experiences [Soon](Soon)
+- 📄 Know about my experiences on my [portfolio](https://tib612.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
